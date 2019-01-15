@@ -1,4 +1,4 @@
-# Problem Set #1: Powers and Logarithms using Numpy
+# Problem Set #0: Powers and Logarithms using Numpy
 
 #Import Numpy for math functions
 import numpy as numpy
